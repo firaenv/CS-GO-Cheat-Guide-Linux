@@ -15,7 +15,7 @@
 ## Quick Start
 
 - Launch Steam
-- Drag the files from the (Scripts)[https://github.com/firaenv/CS-GO-Cheat-Guide-Linux/tree/master/Scripts] into a folder
+- Drag the files from the [Scripts](https://github.com/firaenv/CS-GO-Cheat-Guide-Linux/tree/master/Scripts) into a folder
 - Launch CS:GO
 - run ./load and once injected
 - Press `Insert` and there you go!
